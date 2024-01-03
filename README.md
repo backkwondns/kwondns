@@ -1,5 +1,9 @@
-### Hi there 👋
+###  Front-End 개발자를 꿈꾸는 노력형 개발자입니다.
+#### 최신 기술과 트렌드를 주시하며 사용자 경험을 개선하기 위해 끊임없이 노력하고 있습니다.🧑‍💻
+#### React를 주로 다루며 사용자에게 더 나은 경험을 전달하는 것을 목표로 삼고 있습니다.🫰
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kwondns&count_private=true&show_icons=true)](https://github.com/kwondns/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwondns)](https://github.com/kwondns/github-readme-stats)
 <!--
 **kwondns/kwondns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
